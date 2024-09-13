@@ -1,0 +1,9 @@
+s=input("enter the string:")
+rs=""
+for i in s:
+	rs=i+rs
+print(rs)
+
+//output
+enter t6he string:python
+nohtyp
