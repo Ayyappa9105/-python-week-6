@@ -1,0 +1,14 @@
+s=input("enter the string:")
+v=['A','E','I','O','U','a','e','i','o','u']
+vc=0
+for i in s:
+	if i in v:
+		vc+=1
+print("the vowel count is",vc)
+
+
+
+
+//output
+enter the string: python
+the vowel count is 1
